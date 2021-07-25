@@ -12,7 +12,7 @@
 - 📫 How to reach me **asif.2023mca1015@kiet.edu**
 
 - 📄 Know about my experiences [https://asiftyagi-kiet.github.io/Resume/](https://asiftyagi-kiet.github.io/Resume/)
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/SYgBQb3TMhyUy1LbVG/giphy.gif?cid=6c09b95284b7a7b7eda381cd2b36f90fe1048b0321843f1b&rid=giphy.gif&ct=s">
 
 - ⚡ Fun fact **I think I am funny**
 
