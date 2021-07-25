@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiftyagi-kiet&show_icons=true&locale=en" alt="asiftyagi-kiet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiftyagi-kiet&" alt="asiftyagi-kiet" /></p>
+
+<img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
