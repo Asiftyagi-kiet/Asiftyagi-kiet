@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://www.ryerson.ca/content/dam/graduate/programs/computer-science/Code-Banner.jpg">
+<img align="right" alt="Coding" width="100%" src="https://www.sdsmt.edu/uploadedImages/Content/Academics/Degrees/_Images/DegCompSciBanner.jpg">
 
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">A passionate Web developer</h3>
