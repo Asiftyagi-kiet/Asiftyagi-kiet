@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@asif41395562" target="blank"><img src="https://img.shields.io/twitter/follow/@asif41395562?logo=twitter&style=for-the-badge" alt="@asif41395562" /></a> </p>
 
-- 🌱 I’m currently learning **MCA Kiet Group of Institutions Gzb.**
+- 🌱 I’m currently Study **MCA Kiet Group of Institutions Gzb.**
 
 - 📫 How to reach me **asif.2023mca1015@kiet.edu**
 
 - 📄 Know about my experiences [https://asiftyagi-kiet.github.io/Resume/](https://asiftyagi-kiet.github.io/Resume/)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
