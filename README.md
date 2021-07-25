@@ -40,4 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiftyagi-kiet&" alt="asiftyagi-kiet" /></p>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif">
