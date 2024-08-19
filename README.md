@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently Study **MCA Kiet Group of Institutions Gzb.**
 
-- 📫 How to reach me **asif.2023mca1015@kiet.edu**
+- 📫 How to reach me **asiftyai8057@gmail.com**
 
 - 📄 Know about my experiences [https://asiftyagi-kiet.github.io/Resume/](https://asiftyagi-kiet.github.io/Resume/)
   <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/SYgBQb3TMhyUy1LbVG/giphy.gif?cid=6c09b95284b7a7b7eda381cd2b36f90fe1048b0321843f1b&rid=giphy.gif&ct=s">
